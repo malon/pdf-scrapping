@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# Twitter AcronyBot
-# This script scraps the list of acronyms from
-# http://www.netlingo.com/acronyms.php
-# shuffle them and store them in a file
 
 
 import requests
